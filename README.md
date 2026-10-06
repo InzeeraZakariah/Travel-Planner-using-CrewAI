@@ -95,7 +95,6 @@ travel_planner/
 ├── agents.py
 ├── tasks.py
 ├── crew.py
-├── main.py
 ├── app.py
 ├── requirements.txt
 ├── .env
@@ -121,10 +120,7 @@ Defines the tasks assigned to each agent.
 #### `crew.py`
 
 Creates the CrewAI crew and executes the agents sequentially.
-
-#### `main.py`
-
-Provides a command-line interface for running the travel planner.
+=
 
 #### `app.py`
 
